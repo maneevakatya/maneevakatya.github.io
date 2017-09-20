@@ -1,0 +1,157 @@
+#u31481
+{
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	border-style: solid;
+	background-color: #FEFEFE;
+	border-width: 0px 0px 1px;
+	background-size: cover;
+}
+
+.header_line
+{
+	border-style: solid;
+	border-color: #7F7F7F;
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	border-width: 0px 0px 1px;
+	background: #FEFEFE url("../images/_25d1_2582_25d0_25b5_25d0_25ba_25d1_2581_25d1_2582_25d1_2583_25d1_2580_25d0_25b0-_25d0_25b4_25d0_25bb_25d1_258f-_25d1_2588_25d0_25b0_25d0_25bf_25d0_25ba_25d0_25b8-ieu31481-fr.png") no-repeat center bottom;
+	background: rgba(0,0,0,0) url("../images/_25d1_2582_25d0_25b5_25d0_25ba_25d1_2581_25d1_2582_25d1_2583_25d1_2580_25d0_25b0-_25d0_25b4_25d0_25bb_25d1_258f-_25d1_2588_25d0_25b0_25d0_25bf_25d0_25ba_25d0_25b8.jpg") no-repeat center bottom;
+	background-color: #FEFEFE;
+	background-size: cover;
+}
+
+#u31482-4
+{
+	background-color: transparent;
+	letter-spacing: 2px;
+	color: #000000;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u31483-4
+{
+	background-color: transparent;
+	line-height: 22px;
+	position: relative;
+}
+
+#u31484
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u31487-4
+{
+	background-color: transparent;
+	line-height: 29px;
+	position: relative;
+}
+
+#u31488-4
+{
+	background-color: transparent;
+	line-height: 38px;
+	position: relative;
+}
+
+#u31460
+{
+	background: #DD4B39 url("../images/_25d1_2582_25d0_25b5_25d0_25ba_25d1_2581_25d1_2582_25d1_2583_25d1_2580_25d0_25b0-_25d0_25b4_25d0_25b0C5B2B476D") no-repeat center top;
+	background-size: cover;
+}
+
+#u31460_align_to_page
+{
+	position: relative;
+}
+
+#u31473,#u31469
+{
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	position: relative;
+	border-width: 0px 0px 0px 1px;
+}
+
+#u31470-4,#u31471-4,#u31472-4
+{
+	background-color: transparent;
+	color: #000000;
+	font-size: 14px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u31462-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	color: #7F7F7F;
+	font-size: 12px;
+	text-align: left;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u31468,#u31463
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u31464
+{
+	position: relative;
+	background: transparent url("../images/vk1.png") no-repeat left top;
+}
+
+#u31464:hover
+{
+	background: transparent url("../images/vk2.png") no-repeat left top;
+}
+
+#u31466
+{
+	position: relative;
+	background: transparent url("../images/fb1.png") no-repeat left top;
+}
+
+#u31466:hover
+{
+	background: transparent url("../images/fb2.png") no-repeat left top;
+}
+
+#u31465
+{
+	position: relative;
+	background: transparent url("../images/tw1.png") no-repeat left top;
+}
+
+#u31465:hover
+{
+	background: transparent url("../images/tw2.png") no-repeat left top;
+}
+
+#u31467
+{
+	position: relative;
+	background: transparent url("../images/go1.png") no-repeat left top;
+}
+
+#u31467:hover
+{
+	background: transparent url("../images/go2.png") no-repeat left top;
+}
+
